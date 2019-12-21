@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great blog with a bit of personal thoughts
-image: /img/home-jumbotron.jpg
+image: /img/img_20191024_112833.jpg
 heading: Life in Brisbane
 subheading: I should go to beaches more often
 mainpitch:
