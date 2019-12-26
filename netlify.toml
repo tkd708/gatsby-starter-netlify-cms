@@ -2,6 +2,9 @@
   publish = "public"
   command = "gatsby build"
   functions = "lambda"
+[build.api]
+  command = "npm run build"
+  functions = "lambda"
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
