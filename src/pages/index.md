@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great blog with a bit of personal thoughts
+title: Colored glasses
 image: /img/img_20191024_112833.jpg
 heading: Life in Brisbane
-subheading: I should go to beaches more often
+subheading: Mapping the world from your own perspectives
 mainpitch:
   title: Why Gatsby?
   description: >
