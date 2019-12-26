@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: A new post!
-date: 2019-12-21 T15:04:10.000Z
+date: 2019-12-21T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 description: Updating blog posts.
