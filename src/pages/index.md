@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Coloured glasses
+title: Naoya Takeda
 image: /img/img_20191024_112833.jpg
-heading: Coloured glasses
-subheading: Mapping the world from your own perspectives
+heading: Naoya Takeda
+subheading: Agricultural & Environmental Scientist
 mainpitch:
   title: '"Coloured" by your own interest'
   description: >
