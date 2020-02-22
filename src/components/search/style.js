@@ -133,3 +133,4 @@ export const ResultWrapper = styled.div`
       right: 2.5%;
     }
   }
+  `
