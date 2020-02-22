@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
+import Search from './search/index'
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -75,6 +77,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link>
+            </div>
+            <div>
+            	<Search className={`${props.className} ${fix ? "fixed" : ""}`} />
             </div>
             <div className="navbar-end has-text-centered">
               <a
