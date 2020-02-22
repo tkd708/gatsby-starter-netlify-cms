@@ -6,7 +6,7 @@ import TextHighlighter from "./highlight"
 import { Wrapper, ResultWrapper } from "./style"
 
 const SearchResult = props => {
-  // 全記事データ取得 //
+  // 全記事データ取得 // ...slug & keywords as well?
   const tempData = useStaticQuery(graphql`
     query SearchData {
       allMarkdownRemark(
@@ -18,9 +18,7 @@ const SearchResult = props => {
             frontmatter {
               date(formatString: "YYYY-MM-DD")
               title
-              slug
               tags
-              keywords
             }
           }
         }
