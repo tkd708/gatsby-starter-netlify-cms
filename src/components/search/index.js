@@ -52,7 +52,7 @@ const SearchResult = props => {
     }
   }, [props.focus, props.value])
 
-  // 検索処理 //
+  // 検索処理 // ... removed: ${e.keywords.toLowerCase()}
   const [result, setResult] = useState([])
   const search = () => {
     const value = props.value.toLowerCase()
@@ -60,7 +60,6 @@ const SearchResult = props => {
       const target = `
         ${e.title.toLowerCase()}
         ${e.tags.join(" ").toLowerCase()}
-        ${e.keywords.toLowerCase()}
       `
       return target.indexOf(value) !== -1
     })
@@ -72,6 +71,7 @@ const SearchResult = props => {
     }
   }, [props.value])
 
+  // e.slug --> e.title
   return (
     <ResultWrapper className={className}>
       <div className="result-inner">
@@ -81,8 +81,8 @@ const SearchResult = props => {
         <ul>
           {result.map(e => {
             return (
-              <li key={e.slug}>
-                <Link to={`/${e.slug}/`}>
+              <li key={e.title}>
+                <Link to={`/${e.title}/`}>
                   <TextHighlighter str={e.title} includes={props.value} />
                 </Link>
               </li>
