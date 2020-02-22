@@ -2,8 +2,7 @@ import styled from "styled-components"
 import { colors } from "../../style/GlobalStyle"
 import { rgba } from "polished"
 
-export const Wrapper = styled.div
-`
+export const Wrapper = styled.div`
   border: 1px solid rgba(255, 255, 255, 0.8);
   background: ${props =>
     props.focus ? "rgba(255,255,255,0.3)" : "rgba(255,255,255,0.1)"};
@@ -61,8 +60,7 @@ export const Wrapper = styled.div
   }
 `
 
-export const ResultWrapper = styled.div
-`
+export const ResultWrapper = styled.div`
   .result-inner {
     position: absolute;
     background: var(--background);
