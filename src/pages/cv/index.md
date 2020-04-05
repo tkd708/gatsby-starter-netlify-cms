@@ -51,11 +51,11 @@ title: NAOYA TAKEDA
   
 ### AWARDS
 ---
-- Australian Government Research Training Program, from administered by Queensland University of Technology Feb 2019
-- Tobitate! Study Abroad Japan Program, from the Ministry of Education, Culture, Sports, Science and Technology July 2017
-- Promoting Doctoral Course Programs, from the Graduate School of Agriculture and Life Science, University of Tokyo July 2017
+- Australian Government Research Training Program, from administered by Queensland University of Technology (Feb 2019)
+- Tobitate! Study Abroad Japan Program, from the Ministry of Education, Culture, Sports, Science and Technology (July 2017)
+- Promoting Doctoral Course Programs, from the Graduate School of Agriculture and Life Science, University of Tokyo (July 2017)
 - Scholarship program for postgraduates, from Japan Student Services Organization
-Sept. 2016
+(Sept. 2016)
   
   
 ### LANGUAGES
