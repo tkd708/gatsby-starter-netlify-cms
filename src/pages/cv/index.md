@@ -22,7 +22,8 @@ title: NAOYA TAKEDA
 **Bachelor of Science, Agriculture, University of Tokyo, Tokyo Apr. 2012 - Sept. 2016** 
 - Thesis: Analysis of the applicability of alternate wetting and drying (AWD) irrigation as a watersaving rice production technology through a modelling approach
 - Supervisor: Prof Kensuke Okada and Dr Taro Takahashi
-
+  
+  
 ### WORK EXPERIENCE
 ---
 **Visiting Researcher at International Center of Tropical Agriculture (CIAT), Cali Aug. 2017 – Mar. 2018** 
@@ -39,15 +40,15 @@ title: NAOYA TAKEDA
 - Promoting Doctoral Course Programs, from the Graduate School of Agriculture and Life Science, University of Tokyo July 2017
 - Scholarship program for postgraduates, from Japan Student Services Organization
 Sept. 2016
-
+  
+  
 ### LANGUAGES
 ---
 - **Japanese** : Native
-
 - **English** : Advanced (International English Language Testing System – IELTS 7.5)
-
 - **Spanish** : Upper Intermediate (Diplomas de Español como Lengua Extranjera – DELE B2)
-
+  
+  
 ### SKILLS
 ---
 - Environmental measurement: Soil analysis (physical and chemical properties) Field sensors (field water table and soil moisture content) Automated chamber system for greenhouse gas measurement
