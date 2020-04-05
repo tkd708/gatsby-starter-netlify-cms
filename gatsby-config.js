@@ -8,10 +8,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-styled-components',
-
-    {
-      resolve: `gatsby-plugin-polished`
-    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -34,6 +30,9 @@ module.exports = {
         name: 'images',
       },
     },
+    {
+        resolve: `gatsby-plugin-polished`
+    },  
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
