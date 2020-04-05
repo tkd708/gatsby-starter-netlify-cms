@@ -16,7 +16,7 @@ title: NAOYA TAKEDA
 - Thesis: Application of APSIM-Oryza2000 to sloped rice fields with contour-levee irrigation system in Colombia for efficient water use
 - Supervisor: Prof Kensuke Okada
 
-**Exchange Program, University of Sheffield, Sheffield ** <div style="text-align: right;">Sept. 2015 - July 2016</div>
+**Exchange Program, University of Sheffield, Sheffield** <div style="text-align: right;">Sept. 2015 - July 2016</div>
 
 - University-wide exchange program for one academic year
 - Modules: Economics, Statistics, Biology
