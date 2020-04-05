@@ -4,7 +4,7 @@ title: NAOYA TAKEDA
 ---
 ### EDUCATION
 ---
-**Ph.D. Candidate, Environmental Sciences, Queensland University of Technology, Brisbane** <div style="text-align: right;">Feb 2019 - Present</div>
+**Ph.D. Candidate, Environmental Sciences, Queensland University of Technology, Brisbane**<div style="text-align: right;">Feb 2019 - Present</div>
 
 - Research topic: Denitrification losses in response to nitrogen fertiliser rates in Australian sugarcane systems
 - Supervisor: Prof Peter Grace, Dr Johannes Friedl, Dr David Rowlings and Dr Clemens Scheer  
