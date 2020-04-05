@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
-path: /products
-title: Our Coffee
+path: /research
+title: ACADEMIC RESEARCH
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-

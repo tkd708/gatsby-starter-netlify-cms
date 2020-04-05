@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /projects
-title: Research projects
+title: DATA ANALYSIS
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
