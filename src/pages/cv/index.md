@@ -4,28 +4,24 @@ title: NAOYA TAKEDA
 ---
 ### EDUCATION
 ---
-**Ph.D. Candidate, Environmental Sciences, Queensland University of Technology, Brisbane**
-<div style="text-align: right;">Feb 2019 - Present</div>
+**Ph.D. Candidate, Environmental Sciences, Queensland University of Technology, Brisbane** <div style="text-align: right;">Feb 2019 - Present</div>
 
 - Research topic: Denitrification losses in response to nitrogen fertiliser rates in Australian sugarcane systems
 - Supervisor: Prof Peter Grace, Dr Johannes Friedl, Dr David Rowlings and Dr Clemens Scheer  
 
   
-**Master of Science, Agricultural Development, University of Tokyo, Tokyo**  
-<div style="text-align: right;">Sept. 2016 - Aug. 2018 </div>  
+**Master of Science, Agricultural Development, University of Tokyo, Tokyo** <div style="text-align: right;">Sept. 2016 - Aug. 2018 </div>  
 
 - International Program in Agricultural Development Studies (IPADS) (conducted in English)
 - Thesis: Application of APSIM-Oryza2000 to sloped rice fields with contour-levee irrigation system in Colombia for efficient water use
 - Supervisor: Prof Kensuke Okada
 
-**Exchange Program, University of Sheffield, Sheffield **  
-<div style="text-align: right;">Sept. 2015 - July 2016</div>
+**Exchange Program, University of Sheffield, Sheffield ** <div style="text-align: right;">Sept. 2015 - July 2016</div>
 
 - University-wide exchange program for one academic year
 - Modules: Economics, Statistics, Biology
 
-**Bachelor of Science, Agriculture, University of Tokyo, Tokyo**
-<div style="text-align: right;">Apr. 2012 - Sept. 2016</div> 
+**Bachelor of Science, Agriculture, University of Tokyo, Tokyo** <div style="text-align: right;">Apr. 2012 - Sept. 2016</div> 
 
 - Thesis: Analysis of the applicability of alternate wetting and drying (AWD) irrigation as a watersaving rice production technology through a modelling approach
 - Supervisor: Prof Kensuke Okada and Dr Taro Takahashi
