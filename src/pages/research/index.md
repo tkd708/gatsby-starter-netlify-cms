@@ -13,13 +13,13 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-      High productivity and low environmental impacts
+        High productivity and low environmental impacts
     - image: /img/coffee-gear.png
       text: >
-      Modelling & simulation
+        Modelling & simulation
     - image: /img/tutorials.png
       text: >
-      Decision support system
+        Decision support system
 main:
   heading: Research projects
   description: >
