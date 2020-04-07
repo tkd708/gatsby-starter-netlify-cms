@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import ResearchRoll from '../../components/ResearchRoll'
 
 export const ResearchPageTemplate = ({
   image,
@@ -54,28 +55,8 @@ export const ResearchPageTemplate = ({
                   <p>{main.description}</p>
                 </div>
               </div>
-              <div className="tile is-ancestor">
-                <div className="tile is-vertical">
-                  <div className="tile">
-                    <div className="tile is-parent is-vertical">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
-                      </article>
-                    </div>
-                    <div className="tile is-parent">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image2} />
-                      </article>
-                    </div>
-                  </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
-                  </div>
-                </div>
-              </div>
             </div>
+            <ResearchRoll />
           </div>
         </div>
       </div>
