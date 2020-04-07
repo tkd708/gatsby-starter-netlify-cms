@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
-import ResearchRoll from '../../components/ResearchRoll'
+import ResearchRoll from '../components/ResearchRoll'
 
 export const ResearchPageTemplate = ({
   image,
