@@ -14,18 +14,14 @@ intro:
     - image: /img/coffee.png
       text: >
       High productivity and low environmental impacts
-
     - image: /img/coffee-gear.png
       text: >
       Modelling & simulation
-
     - image: /img/tutorials.png
       text: >
       Decision support system
-        
 main:
   heading: Research projects
   description: >
     Research projects in which I have been involved.
-
 ---
