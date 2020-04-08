@@ -87,7 +87,7 @@ const Navbar = class extends React.Component {
 								Contact
 								</Link>
 						</div>
-						<div>
+						<div className="has-text-centered navbar-item">
 							<Search className={`${this.props.className}`} />
 						</div>
 						<div className="navbar-end has-text-centered">
