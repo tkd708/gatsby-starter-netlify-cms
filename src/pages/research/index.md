@@ -3,17 +3,17 @@ templateKey: 'research-page'
 path: /research
 title: ACADEMIC RESEARCH
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Research overview
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Agronomy, crop modelling, environmental impact assessment.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        High productivity and low environmental impacts
+        Improving resource use efficiency
+    - image: /img/coffee.png
+      text: >
+        Reducing environmental impacts
     - image: /img/coffee-gear.png
       text: >
         Modelling & simulation
