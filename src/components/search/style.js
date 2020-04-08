@@ -5,7 +5,7 @@ import { rgba } from "polished"
 export const Wrapper = styled.div`
   border: 1px solid rgba(255, 255, 255, 0.8);
   background: ${props =>
-    props.focus ? "rgba(255,255,255,0.3)" : "rgba(255,255,255,0.1)"};
+    props.focus ? "rgba(255,255,255,0.5)" : "rgba(255,255,255,0.1)"};
   border-radius: 100px;
   padding: 4px 10px 4px 12px;
   display: flex;
@@ -65,16 +65,17 @@ export const ResultWrapper = styled.div`
     position: absolute;
     background: var(--background);
     border-radius: 3px;
-    box-shadow: rgba(20, 20, 20, 0.2) 1px 1px 20px;
+    box-shadow: rgba(20, 20, 20, 0.7) 1px 1px 20px;
     width: var(--width);
-    width: 520px;
+    width: 320px;
     top: 70px;
-    right: calc((100vw - var(--width)) / 2);
+    left: 0px;
+    /* right: calc((100vw - var(--width)) / 2); */
     /* left: 0;
     margin: auto; */
     /* padding: 20px; */
     transition: 0.3s ease;
-    opacity: 0;
+    opacity: 0.7;
     visibility: hidden;
     transform: translateY(-20px);
     color: var(--text);
