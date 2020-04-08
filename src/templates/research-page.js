@@ -14,55 +14,54 @@ export const ResearchPageTemplate = ({
   intro,
   main,
 }) => (
-  <div className="content">
-    <div
-      className="full-width-image-container margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-      }}
-    >
-      <h2
-        className="has-text-weight-bold is-size-1"
+    <div className="content">
+      <div
+        className="full-width-image-container margin-top-0"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
-          color: 'white',
-          padding: '1rem',
+          backgroundImage: `url(${
+            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+            })`,
         }}
       >
-        {title}
-      </h2>
-    </div>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-7 is-offset-1">
-              <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-              <p>{description}</p>
+        <h2
+          className="has-text-weight-bold is-size-1"
+          style={{
+            boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
+            backgroundColor: '#f40',
+            color: 'white',
+            padding: '1rem',
+          }}
+        >
+          {title}
+        </h2>
+      </div>
+      <section className="section section--gradient">
+        <div className="container">
+          <div className="section">
+            <div className="columns">
+              <div className="column is-7 is-offset-1">
+                <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+                <p>{description}</p>
+              </div>
             </div>
-          </div>
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
-                  </h3>
-                  <p>{main.description}</p>
+            <div className="columns">
+              <div className="column is-10 is-offset-1">
+                <Features gridItems={intro.blurbs} />
+                <div className="columns">
+                  <div className="column is-7">
+                    <h3 className="has-text-weight-semibold is-size-3">
+                      {main.heading}
+                    </h3>
+                    <p>{main.description}</p>
+                  </div>
                 </div>
               </div>
             </div>
-            <ResearchRoll />
           </div>
         </div>
-      </div>
-    </section>
-  </div>
-)
+      </section>
+    </div>
+  )
 
 ResearchPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -91,6 +90,13 @@ const ResearchPage = ({ data }) => {
         intro={frontmatter.intro}
         main={frontmatter.main}
       />
+      <section className="section">
+        <div className="container">
+          <div className="content">
+            <ResearchRoll />
+          </div>
+        </div>
+      </section>
     </Layout>
   )
 }
