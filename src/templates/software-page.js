@@ -78,15 +78,18 @@ const SoftwarePage = ({ data }) => {
 SoftwarePage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object,
+      frontmatter: PropTypes.shape({
+        image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+        title: PropTypes.string,      
+        heading1: PropTypes.string,
+        description1: PropTypes.string,
+        heading2: PropTypes.string,
+        description2: PropTypes.string,
+        heading3: PropTypes.string,
+        description3: PropTypes.string,      
+      }),
     }),
   }),
-  heading1: PropTypes.string,
-  description1: PropTypes.string,
-  heading2: PropTypes.string,
-  description2: PropTypes.string,
-  heading3: PropTypes.string,
-  description3: PropTypes.string,
 }
 
 export default SoftwarePage
