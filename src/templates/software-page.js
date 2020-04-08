@@ -5,20 +5,6 @@ import Layout from '../components/Layout'
 import ResearchRoll from '../components/ResearchRoll'
 
 
-ResearchPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
-  main: PropTypes.shape({
-    heading: PropTypes.string,
-    description: PropTypes.string,
-  }),
-}
-
 const SoftwarePage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
