@@ -15,7 +15,7 @@ const SoftwarePage = ({ data }) => {
           className="full-width-image-container margin-top-0"
           style={{
             backgroundImage: `url(${
-              !!image.childImageSharp ? image.childImageSharp.fluid.src : frontmatter.image
+              !!frontmatter.image.childImageSharp ? frontmatter.image.childImageSharp.fluid.src : frontmatter.image
               })`,
           }}
         >
