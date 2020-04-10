@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+//import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import ResearchRoll from '../components/ResearchRoll'
 
 export const ResearchPageTemplate = ({
