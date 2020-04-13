@@ -5,10 +5,11 @@ image: /img/img_20191024_112833.jpg
 subheading: Say something cool here
 mainpitch:
   title: 'This will be something like a mission or vision'
-  description: >
+  description: >-
     Briefly explain what I would like to achieve.
 heading: How?
-description: 'Here more like explaining my specialisation or approaches'
+description: >-
+ Here more like explaining my specialisation or approaches
 intro:
   blurbs:
     - image: /img/coffee.png
