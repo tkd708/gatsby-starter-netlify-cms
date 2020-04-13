@@ -6,6 +6,7 @@ import AboutPagePreview from './preview-templates/AboutPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import ProjectPagePreview from './preview-templates/ProjectPagePreview'
 import ResearchPagePreview from './preview-templates/ResearchPagePreview'
+import SoftwarePagePreview from './preview-templates/SoftwarePagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 
 CMS.registerMediaLibrary(uploadcare)
@@ -15,4 +16,5 @@ CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('projects', ProjectPagePreview)
 CMS.registerPreviewTemplate('research', ResearchPagePreview)
+CMS.registerPreviewTemplate('software', SoftwarePagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)

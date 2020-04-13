@@ -1,7 +1,7 @@
 ---
 templateKey: 'research-page'
 path: /research
-title: ACADEMIC RESEARCH
+title: RESEARCH
 image: /img/jumbotron.jpg
 heading: Research overview
 description: >-

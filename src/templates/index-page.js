@@ -19,9 +19,9 @@ export const IndexPageTemplate = ({
     <div
       className="full-width-image margin-top-0"
       style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
+        //backgroundImage: `url(${
+        //  !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+        //})`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
       }}
@@ -40,8 +40,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              '#0b8bdb 0.5rem 0px 0px, #0b8bdb -0.5rem 0px 0px',
+            backgroundColor: '#0b8bdb',
             color: 'white',
             alignItems: 'center',
             lineHeight: '1',
@@ -54,8 +54,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              '#0b8bdb 0.5rem 0px 0px, #0b8bdb -0.5rem 0px 0px',
+            backgroundColor: '#0b8bdb',
             color: 'white',
             alignItems: 'center',
             lineHeight: '1',
@@ -89,13 +89,6 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
@@ -186,8 +179,6 @@ export const pageQuery = graphql`
             }
             text
           }
-          heading
-          description
         }
       }
     }

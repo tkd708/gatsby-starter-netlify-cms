@@ -3,15 +3,37 @@ templateKey: 'about-page'
 path: /publication
 title: PUBLICATION
 ---
+<br>
+
 ### JOURNAL ARTICLES
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+---
+**Takeda, N.**, Lopez-Galvis, L., Pineda, D., Castilla, A., Takahashi, T., Fukuda, S., Okada, K., Estimating Soil Water Contents from Field Water Tables for Potential Rice Irrigation Criteria under Contour-Levee Irrigation Systems. *Environmental Control in Biology*, 57:15–21, 2019.
+<br>
+
+**Takeda, N.**, Lopez-Galvis, L., Pineda, D., Castilla, A., Takahashi, T., Fukuda, S., Okada, K., Evaluation of water dynamics of contour-levee irrigation system in sloped rice fields in Colombia. *Agricultural Water Management*, 217:107–118, 2019.
+
+<br>
 
 ### CONFERENCE PAPERS
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+---
+**Takeda, N.**, Friedl, J., Rowlings, D., Scheer, C., Biggs, J., Grace, P., The response of N2O emissions to N fertiliser rates in Australian sugarcane systems, APSIM symposium 2020, 2020 
+
+<br>
 
 ### PRESENTATIONS
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+---
+Oral Presentation at Crop Science Society of Japan 246th Annual Meeting (5-6 Sept. 2018), Hokkaido University, Hokkaido
+<div style="text-align: right;">6 Sept. 2018</div>
+Title: Evaluation of toposequential effects and conventional irrigation managements in sloped rice fields with contour-levee irrigation system in Colombia
+<br>
+<br>
+
+Oral Presentation at Crop Science Society of Japan 243rd Annual Meeting (29-30 Mar. 2017), University of Tokyo, Tokyo
+<div style="text-align: right;">29 Mar. 2017</div>
+Title: Analysis of alternate wetting and drying (AWD) water-saving irrigation system for rice through modelling approach
+
+<br>
 
 ### WORKING REPORTS
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
+---
+To be updated.

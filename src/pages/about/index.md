@@ -3,17 +3,18 @@ templateKey: 'about-page'
 path: /about
 title: Naoya Takeda
 ---
-### Agricultural Sciences
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Environmental Sciences
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Sustainable Agriculture
+Agriculture is an essential industry to supply foods around the world. However the resource use efficiency must be improved to achieve sufficient agricultural production under resource-limited conditions and to reduce environmental impacts.
+
 
 ### Data Analysis
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Data is being accumulated more rapidly from diverse sections and analytical methodolosies have been developed as well. I want to extract information from the massive data using data visualisation, statistical analysis, modelling and simulation approaches.
+
 
 ### Software Development
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The internet infrastructure and hardwares have been developing fast and enabling a lot more things online. I would like to provide solutions to wide range of social issues by developping software applications.
+
 
 ### Languages
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Languages are still the key to expand the world you can access to...
