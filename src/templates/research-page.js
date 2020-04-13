@@ -137,8 +137,6 @@ export const ResearchPageQuery = graphql`
             }
             text
           }
-          heading
-          description
         }
         main {
           heading

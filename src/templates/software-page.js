@@ -137,8 +137,6 @@ export const SoftwarePageQuery = graphql`
             }
             text
           }
-          heading
-          description
         }
         main {
           heading
