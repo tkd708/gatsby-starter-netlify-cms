@@ -2,10 +2,9 @@
 templateKey: software-post
 title: Life Report
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Smartphone application to record daily expenses of money and time.
+description: Smartphone application to record daily expenses of money and time.
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/lifereport.png
 tags:
   - Mobile App
   - SQLite
@@ -13,7 +12,7 @@ tags:
   - Expo
   - React Native
 ---
-![chemex](/img/chemex.jpg)
+![LifeReport](/img/lifereport.png)
 
 Record expenses
 
