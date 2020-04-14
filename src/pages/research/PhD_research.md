@@ -6,7 +6,7 @@ description: >-
   Denitrification losses in relation to N fertiliser rates in Australian
   sugarcane systems
 featuredpost: false
-featuredimage: /img/sugar4.png
+featuredimage: /img/sugar burnt.jpg
 tags:
   - Research
   - Australia
@@ -19,7 +19,7 @@ tags:
   - Fertiliser N recovery
   - APSIM
 ---
-![chemex](/img/chemex.jpg)
+![sugar4](/img/sugar4.png)
 
 He is currently studying for a PhD programme at Queensland University of Technology (Brisbane, Australia) on “Denitrification losses in relation to N fertiliser rates in Australian sugarcane systems”. The research consists of field experiments on commercial sugarcane farms in Queensland and simulation analyses using APSIM. The field experiments measure (1) Greenhouse gas emissions (N2O, CH4 and CO2) by the automated-chamber system, (2) fertiliser N recoveries by 15N enriched fertiliser, (3) denitrification losses (N2+N2O) using the 15N gas flux method. Simulation analyses would extrapolate the field observation to assess N fertiliser rate strategies in terms of N2O emissions and N use efficiency across Australian sugarcane systems.
 
