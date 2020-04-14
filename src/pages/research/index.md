@@ -1,27 +1,26 @@
 ---
-templateKey: 'research-page'
-path: /research
+templateKey: research-page
 title: RESEARCH
-image: /img/jumbotron.jpg
+image: /img/ibague.jpg
 heading: Research overview
-description: >-
-  Agronomy, crop modelling, environmental impact assessment.
+description: 'Agronomy, crop modelling, environmental impact assessment.'
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
+      text: |
         Improving resource use efficiency
     - image: /img/coffee.png
-      text: >
+      text: |
         Reducing environmental impacts
     - image: /img/coffee-gear.png
-      text: >
+      text: |
         Modelling & simulation
     - image: /img/tutorials.png
-      text: >
+      text: |
         Decision support system
 main:
   heading: Research projects
-  description: >
+  description: |
     Research projects in which I have been involved.
 ---
+
