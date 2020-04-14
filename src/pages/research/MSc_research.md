@@ -15,7 +15,7 @@ tags:
   - APSIM
   - ORYZA
 ---
-![chemex](/img/chemex.jpg)
+![ibague2](/img/ibague2.jpg)
 
 He finished his MSc study in IPADS Masters programme at University of Tokyo on “Application of APSIM-Oryza2000 to slope rice fields with contour-levee irrigation system in Colombia for efficient water use” under SATREPS Arroz project. The study included field experiments in Colombia focusing on the water dynamics and rice growth under the contour-levee irrigation system. APSIM-Oryza2000 was calibrated and validated for the local cultivar and scenario analysis was conducted to optimize the irrigation management.
 
