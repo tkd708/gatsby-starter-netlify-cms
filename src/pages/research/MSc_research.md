@@ -3,9 +3,10 @@ templateKey: research-post
 title: MSc research
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Application of APSIM-Oryza2000 to sloped rice fields with contour-levee irrigation system in Colombia for efficient water use
+  Application of APSIM-Oryza2000 to sloped rice fields with contour-levee
+  irrigation system in Colombia for efficient water use
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/fedearroz1.png
 tags:
   - Research
   - Colombia
