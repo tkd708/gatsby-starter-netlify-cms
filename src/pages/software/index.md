@@ -12,7 +12,7 @@ intro:
     - image: /img/react-logo.png
       text: |
         React
-    - image: /img/coffee.png
+    - image: /img/react-native-logo.png
       text: |
         React Native
     - image: /img/expo-logo.jpg
