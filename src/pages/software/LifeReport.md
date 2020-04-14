@@ -12,7 +12,7 @@ tags:
   - Expo
   - React Native
 ---
-![LifeReport](/img/LifeReport.jpg)
+![LifeReport](/img/iifereport.png)
 
 Record expenses
 
