@@ -1,27 +1,29 @@
-﻿---
-templateKey: 'software-page'
-path: /software
+---
+templateKey: software-page
 title: SOFTWARE DEVELOPMENT
 image: /img/jumbotron.jpg
 heading: Programming Languages & Frameworks
 description: >-
-  Web applications are developped using React, Gatsby and Netlify.  Mobile applications are developped using React neative + Expo. Some analytical programmes are developped as R packages.
+  Web applications are developped using React, Gatsby and Netlify.  Mobile
+  applications are developped using React neative + Expo. Some analytical
+  programmes are developped as R packages.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
+    - image: /img/react-logo.png
+      text: |
         React
     - image: /img/coffee.png
-      text: >
+      text: |
         React Native
-    - image: /img/coffee-gear.png
-      text: >
+    - image: /img/expo-logo.jpg
+      text: |
         Expo
-    - image: /img/tutorials.png
-      text: >
+    - image: /img/rlogo.svg
+      text: |
         R
 main:
   heading: Product Portfolio
-  description: >
+  description: |
     Software products I have developed.
 ---
+
