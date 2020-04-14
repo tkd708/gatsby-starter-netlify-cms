@@ -1,7 +1,7 @@
 ---
 templateKey: software-page
 title: SOFTWARE DEVELOPMENT
-image: /img/jumbotron.jpg
+image: /img/software_development.jpg
 heading: Programming Languages & Frameworks
 description: >-
   Web applications are developped using React, Gatsby and Netlify.  Mobile
