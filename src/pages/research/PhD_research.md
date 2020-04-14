@@ -3,9 +3,10 @@ templateKey: research-post
 title: PhD research
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Denitrification losses in relation to N fertiliser rates in Australian sugarcane systems
+  Denitrification losses in relation to N fertiliser rates in Australian
+  sugarcane systems
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/sugar4.png
 tags:
   - Research
   - Australia
