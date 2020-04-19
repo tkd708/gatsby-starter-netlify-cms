@@ -16,7 +16,15 @@ Text here.
 
 > This would look like a quote.
 
-Let's move on to further headings
+Let's move on to further headings. An example of image is below.
+
+![flavor wheel](/img/flavor_wheel.jpg)
+
+List items
+* A
+* B
+* C
+
 
 ## Another heading
 
