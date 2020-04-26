@@ -81,20 +81,8 @@ const Navbar = class extends React.Component {
 								Contact
 								</Link>
 						</div>
-						<div className="navbar-item has-text-centered">
-							<Search className={`${this.props.className}`} />
-						</div>
-						<div className="navbar-end has-text-centered">
-							<a
-								className="navbar-item"
-								href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-								target="_blank"
-								rel="noopener noreferrer"
-							>
-								<span className="icon">
-									<img src={github} alt="Github" />
-								</span>
-							</a>
+						<div className="navbar-end has-background-black has-text-centered">
+							<Search className={`${this.props.className} has-text-centered`} />
 						</div>
 					</div>
 				</div>
