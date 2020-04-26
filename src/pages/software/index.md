@@ -18,7 +18,7 @@ intro:
     - image: /img/expo-logo.jpg
       text: |
         Expo
-    - image: /img/Rlogo.svg
+    - image: /img/r_logo.png
       text: R
 main:
   heading: Product Portfolio
