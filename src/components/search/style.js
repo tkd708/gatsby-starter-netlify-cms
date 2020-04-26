@@ -25,7 +25,7 @@ export const Wrapper = styled.div`
     color: var(--text);
     letter-spacing: 0.03rem;
     &::placeholder {
-      color: #093657;
+      color: #7f7f7f;
       text-shadow: none;
     }
   }
@@ -55,7 +55,7 @@ export const Wrapper = styled.div`
   }
   @media screen and (max-width: 780px) {
     input {
-      width: ${props => (props.focus ? "40%" : "30%")};
+      width: ${props => (props.focus ? "150px" : "100px")};
     }
   }
 `
@@ -130,7 +130,7 @@ export const ResultWrapper = styled.div`
   }
   @media screen and (max-width: 780px) {
     .result-inner {
-      width: 50%;
+      width: 250px;
       right: 2.5%;
     }
   }
