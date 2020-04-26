@@ -62,13 +62,13 @@ export const Wrapper = styled.div`
 
 export const ResultWrapper = styled.div`
   .result-inner {
-    position: absolute;
+    position: relative;
     background: var(--background);
     border-radius: 3px;
     box-shadow: rgba(20, 20, 20, 0.7) 1px 1px 20px;
     width: var(--width);
     width: 320px;
-    top: 70px;
+    top: 50px;
     left: 0px;
     /* right: calc((100vw - var(--width)) / 2); */
     /* left: 0;
