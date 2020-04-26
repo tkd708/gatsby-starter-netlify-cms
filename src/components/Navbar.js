@@ -65,7 +65,7 @@ const Navbar = class extends React.Component {
 							<Link className="has-text-white-ter navbar-item" to="/research">
 								Research
 								</Link>
-							<Link className="navbar-item has-text-white-ter " to="/software">
+							<Link className="navbar-item has-text-white-ter menu-item-hover-color" to="/software">
 								Software development
 								</Link>
 							<Link className="navbar-item" to="/blog">
@@ -82,9 +82,7 @@ const Navbar = class extends React.Component {
 								</Link>
 						</div>
 						<div className="navbar-end has-background-black has-text-centered">
-							<div className='container has-text-centered'>
 							<Search className={`${this.props.className}`} />
-							</div>
 						</div>
 					</div>
 				</div>

@@ -55,7 +55,7 @@ export const Wrapper = styled.div`
   }
   @media screen and (max-width: 780px) {
     input {
-      width: ${props => (props.focus ? "120px" : "70px")};
+      width: ${props => (props.focus ? "40%" : "30%")};
     }
   }
 `
@@ -130,7 +130,7 @@ export const ResultWrapper = styled.div`
   }
   @media screen and (max-width: 780px) {
     .result-inner {
-      width: 70%;
+      width: 50%;
       right: 2.5%;
     }
   }
