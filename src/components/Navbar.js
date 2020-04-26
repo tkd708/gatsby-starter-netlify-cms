@@ -68,10 +68,10 @@ const Navbar = class extends React.Component {
 							<Link className="navbar-item has-text-white-ter menu-item-hover-color" to="/software">
 								Software development
 								</Link>
-							<Link className="navbar-item" to="/blog">
+							<Link className="navbar-item menu-item-hover-color" to="/blog">
 								Blog
 								</Link>
-							<Link className="navbar-item" to="/cv">
+							<Link className="navbar-item menu-item-active-color" to="/cv">
 								CV
 								</Link>
 							<Link className="navbar-item" to="/publication">

@@ -25,7 +25,7 @@ export const Wrapper = styled.div`
     color: var(--text);
     letter-spacing: 0.03rem;
     &::placeholder {
-      color: #fff;
+      color: #093657;
       text-shadow: none;
     }
   }
