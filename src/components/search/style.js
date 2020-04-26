@@ -5,7 +5,7 @@ import { rgba } from "polished"
 export const Wrapper = styled.div`
   border: 1px solid rgba(255, 255, 255, 0.8);
   background: ${props =>
-    props.focus ? "rgba(255,255,255,0.5)" : "rgba(255,255,255,0.1)"};
+    props.focus ? "rgba(255,255,255,0.7)" : "rgba(255,255,255,0.5)"};
   border-radius: 100px;
   padding: 4px 10px 4px 12px;
   display: flex;
@@ -130,7 +130,7 @@ export const ResultWrapper = styled.div`
   }
   @media screen and (max-width: 780px) {
     .result-inner {
-      width: 95%;
+      width: 70%;
       right: 2.5%;
     }
   }
