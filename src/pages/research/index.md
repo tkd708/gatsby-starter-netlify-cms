@@ -6,16 +6,16 @@ heading: Research overview
 description: 'Agronomy, crop modelling, environmental impact assessment.'
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/ibague2.jpg
       text: |
         Improving resource use efficiency
-    - image: /img/coffee.png
+    - image: /img/sugar4.png
       text: |
         Reducing environmental impacts
-    - image: /img/coffee-gear.png
+    - image: /img/apsim2.jpg
       text: |
         Modelling & simulation
-    - image: /img/tutorials.png
+    - image: /img/ciat.png
       text: |
         Decision support system
 main:
