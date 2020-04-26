@@ -61,28 +61,30 @@ const Navbar = class extends React.Component {
 						id="navMenu"
 						className={`navbar-menu ${this.state.navBarActiveClass} has-background-black`}
 					>
-						<div className="navbar-start has-text-centered has-background-black">
-							<Link className="navbar-item has-text-white-ter" to="/research">
-								Research
+						<div className="content has-text-centered has-background-black has-text-white-ter">
+							<div className="navbar-start has-text-centered has-background-black">
+								<Link className="navbar-item " to="/research">
+									Research
 								</Link>
-							<Link className="navbar-item has-text-white-ter" to="/software">
-								Software development
+								<Link className="navbar-item has-text-white-ter" to="/software">
+									Software development
 								</Link>
-							<Link className="navbar-item has-text-white-ter" to="/blog">
-								Blog
+								<Link className="navbar-item has-text-white-ter" to="/blog">
+									Blog
 								</Link>
-							<Link className="navbar-item has-text-white-ter" to="/cv">
-								CV
+								<Link className="navbar-item has-text-white-ter" to="/cv">
+									CV
 								</Link>
-							<Link className="navbar-item has-text-white-ter" to="/publication">
-								Publication
+								<Link className="navbar-item has-text-white-ter" to="/publication">
+									Publication
 								</Link>
-							<Link className="navbar-item has-text-white-ter" to="/contact">
-								Contact
+								<Link className="navbar-item has-text-white-ter" to="/contact">
+									Contact
 								</Link>
-						</div>
-						<div className="navbar-end has-background-black has-text-centered">
-							<Search className={`${this.props.className}`} />
+							</div>
+							<div className="navbar-end has-background-black has-text-centered">
+								<Search className={`${this.props.className}`} />
+							</div>
 						</div>
 					</div>
 				</div>
