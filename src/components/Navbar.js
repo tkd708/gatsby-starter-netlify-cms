@@ -61,8 +61,8 @@ const Navbar = class extends React.Component {
 						id="navMenu"
 						className={`navbar-menu ${this.state.navBarActiveClass} has-background-black has-text-white-ter`}
 					>
-						<div className="navbar-start content has-text-centered has-background-black has-text-white-ter">
-							<Link className="navbar-item" to="/research">
+						<div className="navbar-start has-text-centered has-background-black has-text-white-ter">
+							<Link className="navbar-item has-text-white-ter" to="/research">
 								Research
 								</Link>
 							<Link className="navbar-item" to="/software">
