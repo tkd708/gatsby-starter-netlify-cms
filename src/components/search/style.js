@@ -62,7 +62,7 @@ export const Wrapper = styled.div`
 
 export const ResultWrapper = styled.div`
   .result-inner {
-    position: relative;
+    position: absolute;
     background: var(--background);
     border-radius: 3px;
     box-shadow: rgba(20, 20, 20, 0.7) 1px 1px 20px;
